@@ -13,7 +13,7 @@
      use_form_submit: yes
      core_api_methods: ["run_inline_query","all_lookml_models","dashboard","dashboard_dashboard_elements"]
      external_api_urls: [
-    "https://websocket-service-qoyshktzha-uc.a.run.app","http://localhost:8000","http://localhost:3000","https://*.googleapis.com","https://slack.com/api/*","https://slack.com/*"
+    "https://websocket-service-qoyshktzha-uc.a.run.app","http://localhost:5000","http://localhost:3000","https://*.googleapis.com","https://slack.com/api/*","https://slack.com/*"
    ]
    }
  }
