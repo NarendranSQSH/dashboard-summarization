@@ -1,5 +1,5 @@
 application: dashboard-summarization {
-  label: "Local - Dashboard Insights Powered by Vertex AI"
+  label: "Dashboard Insights Powered by Vertex AI"
   # file: "dashboard_summarization.js"
   url: "https://localhost:3000/dashboard_summarization.js"
   mount_points: {
